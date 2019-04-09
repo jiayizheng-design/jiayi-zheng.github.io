@@ -152,7 +152,8 @@ img { max-width: 800px!important;
 
 	top: 0;
 margin: 0px auto;
-padding: 15px;
+padding-left: 15px;
+	padding-bottom: 15px;
   bottom: 0;
   left: 0;
   right: 0;
